@@ -2,7 +2,7 @@
 
 Flat and responsive website template, designed and coded by [Maxim Orlov](https://github.com/orlovmax). 
 
-Demo: [http://website-templates.github.io/portfolio_one-page-template](http://website-templates.github.io/portfolio_one-page-template/)
+Demo: [http://website-templates.github.io/willy](http://website-templates.github.io/willy/)
 
 ![Mockup demo](screenshots/pic.jpg)
 Product mockup created with [http://magicmockups.com/](http://magicmockups.com/)
