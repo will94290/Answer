@@ -1,6 +1,6 @@
 p, strong, .intro
 {
-  font-family: Arial Black;
+  font-family: "Comic Sans MS";
   font-size: 1.9em;
 }
 
@@ -12,6 +12,7 @@ p
 strong
 {
     color: green;
+  text-decoration: blink;
 }
 
 h1
@@ -19,6 +20,7 @@ h1
     color: red;
   font-family: Impact;
   font-size: 2.4em;
+  text-decoration: underline;
 }
 
 .intro
