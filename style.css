@@ -2,46 +2,6 @@
 @import url("components/avatar.css");
 @import url("components/button.css");
 
-p, .intro
-{
-  font-family: "Comic Sans MS";
-  font-size: 1.9em;
-  text-align: center;
-  text-shadow: 2px 2px 4px black;
-}
-
-p
-{
-  color: blue;
-}
-
-a
-{
-  color: red;
-  text-decoration: none;
-}
-
-a:hover
-{
-  text-decoration: underline;
-}
-
-strong
-{
-    color: green;
-  text-decoration: blink;
-  text-shadow: 2px 2px 4px black;
-}
-
-h1
-{
-    color: red;
-  font-family: Impact;
-  font-size: 2.4em;
-  text-decoration: underline;
-  text-align: center;
-}
-
 .flexbox
 {
   display: flex;
@@ -52,14 +12,4 @@ h1
 body
 {
   background: url("rem.png") fixed no-repeat top right, url("rem_2.png") fixed no-repeat top left, url("background.jpg") fixed;
-}
-
-.intro
-{
-  color: maroon;
-}
-
-.signature
-{
-  text-align: right;
 }
