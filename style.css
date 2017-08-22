@@ -29,6 +29,13 @@
   text-weight: bald;
 }
 
+.conclusion
+{
+  text-align: center;
+  color: red;
+  font-size: 30px;
+}
+
 body
 {
   background: url("rem.png") scroll no-repeat top right, url("rem_2.png") scroll no-repeat top left, url("fond_bleu.jpg") fixed;
