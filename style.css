@@ -2,6 +2,13 @@
 @import url("components/avatar.css");
 @import url("components/button.css");
 
+.banner 
+{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .flexbox
 {
   display: flex;
