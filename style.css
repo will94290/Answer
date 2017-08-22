@@ -2,7 +2,7 @@ p, .intro
 {
   font-family: "Comic Sans MS";
   font-size: 1.9em;
-  text-align: justify;
+  text-align: center;
 }
 
 p
@@ -23,6 +23,11 @@ h1
   font-size: 2.4em;
   text-decoration: underline;
   text-align: center;
+}
+
+.signature
+{
+  text-align: right;
 }
 
 .intro
