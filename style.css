@@ -4,9 +4,7 @@
 
 .banner 
 {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+  text-align: center;
   colors: maroon;
   border-radius: 10px;
 }
