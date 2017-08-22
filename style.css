@@ -27,7 +27,7 @@ h1
 
 body
 {
-  background: url("rem.jpg") fixed no-repeat top right, url("background.jpg") fixed
+  background: url("rem.jpg") fixed no-repeat top right, url("background.jpg") fixed;
 }
 
 .intro
