@@ -18,11 +18,16 @@ strong
 
 h1
 {
-    color: maroon;
+    color: red;
   font-family: Impact;
   font-size: 2.4em;
   text-decoration: underline;
   text-align: center;
+}
+
+body
+{
+  background-color: silver;
 }
 
 .intro
@@ -33,9 +38,4 @@ h1
 .signature
 {
   text-align: right;
-}
-
-.pikachu
-{
-  text-align: center;
 }
