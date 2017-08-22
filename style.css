@@ -11,6 +11,17 @@ p
   color: blue;
 }
 
+a
+{
+  color: red;
+  text-decoration: none;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
 strong
 {
     color: green;
