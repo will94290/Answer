@@ -25,6 +25,11 @@ h1
   text-align: center;
 }
 
+.intro
+{
+  color: cyan;
+}
+
 .signature
 {
   text-align: right;
