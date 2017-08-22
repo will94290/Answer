@@ -2,12 +2,14 @@
 @import url("components/avatar.css");
 @import url("components/button.css");
 
-/*.banner 
+.banner 
 {
   display: flex;
   justify-content: space-around;
   align-items: center;
-}*/
+  colors: maroon;
+  border-radius: 10px;
+}
 
 body
 {
