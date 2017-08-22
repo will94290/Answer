@@ -2,12 +2,18 @@
 @import url("components/avatar.css");
 @import url("components/button.css");
 
-.titre, .sous-titre
+.titre
 {
   text-align: center;
   color: maroon;
   background-color: white;
   border-radius: 5px;
+}
+
+.texte
+{
+  text-align: center;
+  color: blue;
 }
 
 body
