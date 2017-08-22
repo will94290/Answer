@@ -3,6 +3,7 @@ p, .intro
   font-family: "Comic Sans MS";
   font-size: 1.9em;
   text-align: center;
+  text-shadow: 2px 2px 4px black;
 }
 
 p
@@ -14,6 +15,7 @@ strong
 {
     color: green;
   text-decoration: blink;
+  text-shadow: 2px 2px 4px black;
 }
 
 h1
@@ -32,7 +34,7 @@ body
 
 .intro
 {
-  color: cyan;
+  color: maroon;
 }
 
 .signature
