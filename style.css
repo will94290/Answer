@@ -5,7 +5,7 @@
 .titre, .sous-titre
 {
   text-align: center;
-  colors: maroon;
+  color: maroon;
   border-radius: 10px;
 }
 
