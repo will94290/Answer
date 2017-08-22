@@ -2,6 +2,7 @@ p, .intro
 {
   font-family: "Comic Sans MS";
   font-size: 1.9em;
+  text-align: justify;
 }
 
 p
@@ -21,6 +22,7 @@ h1
   font-family: Impact;
   font-size: 2.4em;
   text-decoration: underline;
+  text-align: center;
 }
 
 .intro
