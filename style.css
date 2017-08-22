@@ -18,6 +18,13 @@
   font-size: 25px;
 }
 
+.important
+{
+  text-align: center;
+  color: red;
+  text-weight: bald;
+}
+
 body
 {
   background: url("rem.png") fixed no-repeat top right, url("rem_2.png") fixed no-repeat top left, url("fond_bleu.jpg") fixed;
