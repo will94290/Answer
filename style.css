@@ -20,6 +20,8 @@
 
 .important
 {
+  text-decoration: none;
+  background-color: none;
   text-align: center;
   color: red;
   text-weight: bald;
