@@ -2,7 +2,7 @@
 @import url("components/avatar.css");
 @import url("components/button.css");
 
-.titre
+.titre, .sous-titre
 {
   text-align: center;
   color: maroon;
