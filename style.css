@@ -1,11 +1,11 @@
 .titre
 {
-  text-align: center;
   color: maroon;
   background-color: white;
   border-radius: 5px;
   font-size: 40px;
-  width: 50%
+  width: 50%;
+  text-align: center;
 }
 
 .texte
