@@ -1,60 +1,33 @@
 *,
 *:after,
 *:before {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-	font-family: "Inter", sans-serif;
-	background-color: #FFF;
+  font-family: "Inter", sans-serif;
+  background-color: #fbd7e3;
 }
 
-.text-box {
-	position: relative;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+.container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+          justify-content: center;
 }
 
 h1 {
-	font-size: 8vw;
-	font-weight: 900;
-	background-color: #000;
-	color: #fff;
-	display: block;
-	padding: .5em;
+  color: #fcdde8;
+  font-size: calc(1em + 20vw);
+  font-weight: 900;
+  text-shadow: -0.0075em 0.0075em 0 #fef2f6, 0.005em 0.005em 0 #f6a5c1, 0.01em 0.01em 0 #f7aac4, 0.015em 0.015em #f7aec7, 0.02em 0.02em 0 #f8b3ca, 0.025em 0.025em 0 #f8b7cd, 0.03em 0.03em 0 #f8bcd0, 0.035em 0.035em 0 #f9c0d3;
 }
 
-h1:nth-child(2) {
-	position: absolute;
-	background-color: #fff;
-	color: #000;
-	clip-path: inset(-1% -1% 50% -1%); // Added the negative values to prevent icky "bleed" in Chrome
-}
-
-p {
-	font-size: 2vw;
-	font-weight: 900;
-	margin-top: 1em;
-	text-align: center;
-	span {
-		display: block;
-		transform: rotate(90deg);
-		margin-top: .25em;
-	}
-}
-
-// Codepen spesific styling - only to center the elements in the pen preview and viewport
-.container {
-	position: absolute;
-	top: 0;
-	left: 0;
-	right: 0;
-	bottom: 0;
-	width: 100%;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	flex-direction: column;
-}
-// End Codepen spesific styling
